@@ -64,26 +64,15 @@
 
 | Proyecto | Descripción | Tech |
 |---|---|---|
-| 🛒 [**WebCajasan**](https://github.com/javierdval-pixel/WebCajasan) | Nuevo sitio web corporativo para Cajasan con imagen renovada. | PHP |
-| 🎂 [**Aniversario Cajasan**](https://github.com/javierdval-pixel/aniversario-cajasan) | Micrositio especial para celebraciones de aniversario del supermercado. | HTML |
-| 🎟️ [**Cuponera Cajasan**](https://github.com/javierdval-pixel/cuponera-cajasan) | Sistema web de cupones por aliados para eventos especiales. | PHP |
-| 📍 [**Aliados Santander**](https://github.com/javierdval-pixel/aliados-santander) | Mapa interactivo de aliados Cajasan en el departamento de Santander. | PHP |
-| 📋 [**Encuestas Cajasan**](https://github.com/javierdval-pixel/encuestas-cajasan) | Plataforma para postulaciones, registros y encuestas. | JavaScript |
-| 🎡 [**Ruletas Cajasan**](https://github.com/javierdval-pixel/ruletas-cajasan) | Plataforma de sorteos online y rifas interactivas. | JavaScript |
+| 🛒 [**WebCajasan**](#) | Nuevo sitio web corporativo para Cajasan con imagen renovada. | PHP |
+| 🎂 [**Aniversario Cajasan**](#) | Micrositio especial para celebraciones de aniversario del supermercado. | HTML |
+| 🎟️ [**Cuponera Cajasan**](#) | Sistema web de cupones por aliados para eventos especiales. | PHP |
+| 📍 [**Aliados Santander**](#) | Mapa interactivo de aliados Cajasan en el departamento de Santander. | PHP |
+| 📋 [**Encuestas Cajasan**](#) | Plataforma para postulaciones, registros y encuestas. | JavaScript |
+| 🎡 [**Ruletas Cajasan**](#) | Plataforma de sorteos online y rifas interactivas. | JavaScript |
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=javierdval-pixel&show_icons=true&hide_border=true&theme=tokyonight&cache_seconds=86400" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=javierdval-pixel&layout=compact&hide_border=true&theme=tokyonight&cache_seconds=86400" />
-</p>
-
----
 
 ### 💡 Sobre mí
 
